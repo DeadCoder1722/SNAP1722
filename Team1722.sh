@@ -59,15 +59,15 @@ echo " "
 echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
 echo " "
 read hulke
-cd $HOME/snap/bars
+cd $HOME/Team1722/bars
 echo " "
 echo -e "$ylo     To terminate the process click$red 't'$ylo or to continue click on$grn ENTER$rset" 
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                    Are you sure? Press$grn ENTER$red to exit$rset"
 read hulkee
-cd $HOME/snap/
-bash snap.sh
+cd $HOME/Team1722/
+bash Team1722.sh
 else
 bash backup.sh
 echo " "
@@ -78,8 +78,8 @@ echo -e "$cyan            click$grn ENTER$cyan to go back into snap menu$rset"
 echo " "
 read punch
 fi
-cd $HOME/snap
-bash snap.sh ;;
+cd $HOME/Team1722
+bash Team1722.sh ;;
 
 2)echo " "
 echo " "
@@ -89,15 +89,15 @@ echo " "
 echo -e "$grn                  Press$ylo ENTER$grn to continue$rset"
 echo " "
 read nitro
-cd $HOME/snap/bars
+cd $HOME/Team1722/bars
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                   Are you sure? Press$grn ENTER$red to exit$rset"
 read nitroo
-cd $HOME/snap
-bash snap.sh
+cd $HOME/Team1722
+bash Team1722.sh
 else
 bash restore.sh
 echo " "
@@ -108,8 +108,8 @@ echo -e "$cyan             click$grn ENTER$cyan to go back into snap menu$rset"
 echo " "
 read punch
 fi
-cd $HOME/snap
-bash snap.sh ;;
+cd $HOME/Team1722
+bash Team1722.sh ;;
 3)echo " "
 echo " "
 echo " "
@@ -118,15 +118,15 @@ echo " "
 echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"
 echo " "
 read mon
-cd $HOME/snap/bars
+cd $HOME/Team1722/bars
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                 Are you sure? Press$grn ENTER$red to exit$rset"
 read monn
-cd $HOME/snap
-bash snap.sh
+cd $HOME/Team1722
+bash Team1722.sh
 else
 bash update.sh
 echo " "
@@ -137,8 +137,22 @@ echo -e "$cyan        click$grn ENTER$cyan to go back into snap menu$rset"
 echo " "
 read punch
 fi
-cd $HOME/snap
-bash snap.sh ;;
+cd $HOME/Team1722
+bash read punch
+fi
+cd $HOME/Team1722
+bash Team1722.sh ;;
+4)
+sleep 2.0
+clear
+echo " "
+echo -e "$grn
+     ____  _  _  ____    ____  _  _  ___
+    (  _ \( \/ )( ___)  (  _ \( \/ )( ___)
+     ) _ < \  /  )__)    ) _ < \  /  )__)
+    (____/ (__) (____)  (____/ (__) (____)...$cyan have a awesome day$rset"
+echo " "
+echo " ".sh ;;
 4)
 sleep 2.0
 clear
