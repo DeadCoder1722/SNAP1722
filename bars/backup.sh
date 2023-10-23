@@ -1,6 +1,4 @@
-# A tool by nitrp from www.noob-hackers.com
-# Be a unique person not copy cat
-# Colours
+# By @DeadCode1722
 #-----------------
 red='\033[1;31m'
 rset='\033[0m'
