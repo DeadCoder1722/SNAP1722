@@ -1,6 +1,4 @@
-# A tool by nitrp from www.noob-hackers.com
-# Be a unique person not copy cat
-# Colours
+# By DeadCode1722
 #-----------------
 red='\033[1;31m'
 rset='\033[0m'
@@ -28,7 +26,7 @@ echo '
                           |      |
                                    _
                           _ __  _ |_)
-                         _> | |(_||v1.0 '|lolcat
+      code by @DeadCode1722   _> | |(_||v1.0 '|Team AI 1722
 echo 
 
 echo -e "$red                      ▶ Coded by$grn N17RO$red ◀$rset"
