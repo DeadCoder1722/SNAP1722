@@ -29,8 +29,8 @@ echo '
       code by @DeadCode1722   _> | |(_||v1.0 '|Team AI 1722
 echo 
 
-echo -e "$red                      ▶ Coded by$grn N17RO$red ◀$rset"
-echo -e "$red                 ⫸$ylo YOUTUBE- Noob Hackers$red ⫷$rset"
+echo -e "$red                      ▶ Coded by$grn DeadCoder1722$red ◀$rset"
+echo -e "$red                 ⫸$ylo Telegram - TeamAI1722$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red              [NOTE:- NEED INTERNET CONNECTION]$rset"
