@@ -1,6 +1,4 @@
-# A tool by nitrp from www.noob-hackers.com
-# Be a unique person not copy cat
-# Colours
+#  By @DeadCode1722
 #-----------------
 red='\033[1;31m'
 rset='\033[0m'
@@ -36,7 +34,7 @@ cd $HOME
 rm -rf snap
 git clone https://github.com/noob-hackers/snap
 cd $HOME
-cd snap
-bash snap.sh
+cd Team1722
+bash Team1722.sh
 exit
 
