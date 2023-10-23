@@ -1,6 +1,4 @@
-# A tool by nitro from www.noob-hackers.com
-# Be a unique person not copy cat
-# Colours
+# By @DeadCode1722
 #-----------------
 red='\033[1;31m'
 rset='\033[0m'
@@ -51,5 +49,5 @@ echo
 echo
 sleep 8.0
 cd $HOME
-cd snap
-bash snap.sh
+cd Team1722
+bash Team1722.sh
