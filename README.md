@@ -11,5 +11,5 @@
 * `ls`
 * `cd snap`
 * `ls`
-* `bash snap.sh`
+* `bash Team1722.sh`
 ```
